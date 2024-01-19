@@ -1,3 +1,5 @@
+#This code is a simple loot generator interface I made for friend.
+
 from tkinter import *
 import random
 
